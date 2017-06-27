@@ -2,10 +2,10 @@ hello
 
 world
 
-foo
+foo1
 
-bar
+bar2
 
-baz
+baz3
 
 xyzzy
